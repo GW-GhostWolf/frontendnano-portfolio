@@ -1,0 +1,44 @@
+﻿.blue {
+    color: #02b3e4;
+}
+
+.light-grey {
+    color: #7d97ad;
+}
+
+.grey {
+    color: #2d3c49;
+}
+
+img {
+    border-radius: 15px;
+}
+
+body {
+    margin: 10px auto;
+    font-family: "Roboto", sans-serif;
+}
+
+.logo {
+    min-width: 128px;
+}
+
+.name {
+    font-weight: 100;
+    font-size: 48px;
+    margin: 0;
+}
+
+.title {
+    font-weight: 300;
+    font-size: 24px;
+    margin: 0;
+}
+
+hr {
+    border: 2px solid;
+}
+
+main {
+    margin-top: 20px;
+}
